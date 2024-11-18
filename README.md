@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Konrad</h1>
 <h3 align="center">A passionate Junior Java Developer from Poland</h3>
 
-- 🔭 I’m currently working [Club Management](https://github.com/moRR3no/ClubManagement)
-
-- 🌱 I’m currently learning **Spring Boot 3, Java, REST API**
+- 👨‍🎓 I’m currently pursuing a master degree in Software Engineering at **Warsaw School of Computer Science**
 
 - 📫 How to reach me **konradpstrongowski@gmail.com**
 
