@@ -3,7 +3,6 @@
 
 - 👨‍🎓 I’m currently pursuing a master degree in Software Engineering at **Warsaw School of Computer Science**
 
-- 📫 How to reach me **konradpstrongowski@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
