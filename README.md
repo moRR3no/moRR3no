@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Konrad</h1>
-<h3 align="center">A passionate Junior Java Developer from Poland</h3>
+<h3 align="center">A passionate Java Developer from Poland</h3>
 
 - 👨‍🎓 I’m currently pursuing a master degree in Software Engineering at **Warsaw School of Computer Science**
 
